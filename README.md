@@ -1,4 +1,4 @@
-# Prompt_recomendation
+# NER Memorization Detection
 
 The source code of the paper: Exploring Prompts to Elicit Memorization in Masked Language Model-based Named Entity Recognition.
 
